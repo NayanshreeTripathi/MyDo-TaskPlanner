@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media screen and (min-width: 1165px) and (min-height: 675px) {
+    body {
+      background-image: none;
+    }
+  }
